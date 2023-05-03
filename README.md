@@ -3,19 +3,19 @@
 ## Intelligence:  
 Intelligence is a term used to describe the ability to learn, understand, reason, and adapt to new situations and challenges. It encompasses a range of cognitive abilities, such as problem-solving, decision-making, and creativity, as well as social and emotional skills, such as empathy, self-awareness, and interpersonal communication. Intelligence is a complex and multi-dimensional concept, and there are many different theories and models of intelligence that have been proposed over the years. One of the most well-known is the "general intelligence" or "g" theory, which proposes that intelligence can be measured and quantified by standardized tests that assess a person's ability to solve a variety of different types of problems.
 
-Artificial Intelligence
+## Artificial Intelligence:  
 Artificial intelligence (AI) refers to the development of computer systems that can perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI technologies are designed to learn from data, recognize patterns, and make predictions and decisions based on that information.There are different types of AI, including rule-based systems, which rely on pre-defined sets of rules to make decisions; machine learning, which involves training algorithms to recognize patterns and make predictions based on large amounts of data; and deep learning, which uses complex neural networks to model and process information.
 
-AI Perspective:
-Acting and Thinking humanly
-Acting and Thinking rationally
+## AI Perspective:  
+Acting and Thinking humanly:  
 The "acting and thinking humanly" perspective is based on the idea that AI systems should be designed to mimic human thought processes and behaviors. This perspective is concerned with creating AI systems that can perceive the world like humans do, reason like humans do, and interact with humans in a way that is natural and intuitive. This approach often involves using techniques like natural language processing and computer vision to enable machines to understand and respond to human language and visual cues.
 
+Acting and Thinking rationally:  
 The "acting and thinking rationally" perspective, on the other hand, is concerned with creating AI systems that can make decisions and solve problems based on logical reasoning and formal rules. This perspective focuses on creating AI systems that can reason about complex systems and make decisions based on the best available evidence. This approach often involves using techniques like logic programming and decision theory to enable machines to reason and make decisions.
 
 Both perspectives have their strengths and weaknesses. The "acting and thinking humanly" perspective is better suited for tasks that require natural language understanding, human-like creativity, and social intelligence. The "acting and thinking rationally" perspective, on the other hand, is better suited for tasks that require logical reasoning, problem-solving, and decision-making.
 
-History of AI
+## History of AI:  
 The history of Artificial Intelligence (AI) dates back to the mid-20th century, although the idea of creating machines that could think like humans goes back much further. Here is a brief timeline of the history of AI:
 
 1950s: The term "Artificial Intelligence" was coined by John McCarthy, Marvin Minsky, and other computer scientists at Dartmouth College. The goal was to create machines that could reason, learn, and solve problems like humans.
@@ -30,7 +30,7 @@ The history of Artificial Intelligence (AI) dates back to the mid-20th century, 
 
 Throughout its history, AI has faced a number of challenges, including the difficulty of representing knowledge and reasoning, the limitations of machine learning algorithms, and ethical concerns around the impact of AI on society. However, as technology continues to advance, AI is likely to play an increasingly important role in shaping the future of society.
 
-Foundations of AI :
+## Foundations of AI :  
 1. Philosophy: Philosophy has contributed to the foundations of AI in many ways, including by developing theories of knowledge, reasoning, and language. For example, philosophers have developed theories of logic, probability, and decision theory, which are all essential to AI research.
 
 2. Economics: Economics has contributed to the foundations of AI by providing a framework for understanding decision-making and resource allocation. Game theory, for example, is a branch of economics that studies strategic decision-making and is widely used in AI research.
@@ -49,7 +49,7 @@ Foundations of AI :
 
 9. Control Theory: Control theory is a branch of engineering that deals with the analysis and design of control systems. Control theory has contributed to AI research by providing tools for modeling and controlling complex systems, such as robots and autonomous vehicles.
 
-Applications of AI:
+## Applications of AI:  
 Artificial Intelligence (AI) is being used in a wide range of applications across different industries. Here are some examples of AI applications:
 
 Healthcare: AI is being used in healthcare to improve diagnosis and treatment of diseases, as well as to improve patient outcomes. For example, machine learning algorithms are being used to analyze medical images and detect early signs of diseases such as cancer and Alzheimer's.
