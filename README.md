@@ -1,12 +1,10 @@
 # AI_Tutorial1
 
 Intelligence
-Intelligence is the ability to learn, understand, and use information to solve problems and adapt to new situations. It's not just about knowing lots of facts, but also being able to apply them in different ways. Intelligence can be measured by different tests, but it's important to remember that these tests only measure certain aspects of intelligence and aren't always accurate. Intelligence is influenced by both nature (genes) and nurture (environment and experiences), and it's something that can be improved with education and practice.
+Intelligence is a term used to describe the ability to learn, understand, reason, and adapt to new situations and challenges. It encompasses a range of cognitive abilities, such as problem-solving, decision-making, and creativity, as well as social and emotional skills, such as empathy, self-awareness, and interpersonal communication. Intelligence is a complex and multi-dimensional concept, and there are many different theories and models of intelligence that have been proposed over the years. One of the most well-known is the "general intelligence" or "g" theory, which proposes that intelligence can be measured and quantified by standardized tests that assess a person's ability to solve a variety of different types of problems.
 
 Artificial Intelligence
-Artificial Intelligence (AI) refers to computer programs and machines that can perform tasks that usually require human intelligence, like recognizing speech or images, making decisions, or even learning from data. AI systems use complex algorithms and mathematical models to analyze data and identify patterns, just like the way humans learn and make decisions.
-
-AI is used in a wide range of applications today, from virtual assistants like Siri or Alexa to self-driving cars, online recommendation systems, fraud detection, and many more. AI is helping us solve problems and automate tasks that were previously impossible or very difficult to do.
+Artificial intelligence (AI) refers to the development of computer systems that can perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. AI technologies are designed to learn from data, recognize patterns, and make predictions and decisions based on that information.There are different types of AI, including rule-based systems, which rely on pre-defined sets of rules to make decisions; machine learning, which involves training algorithms to recognize patterns and make predictions based on large amounts of data; and deep learning, which uses complex neural networks to model and process information.
 
 AI Perspective:
 Acting and Thinking humanly
