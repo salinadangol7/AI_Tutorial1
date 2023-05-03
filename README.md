@@ -1,7 +1,6 @@
 # AI_Tutorial1
 
-#Intelligence:
-
+##Intelligence:  
 Intelligence is a term used to describe the ability to learn, understand, reason, and adapt to new situations and challenges. It encompasses a range of cognitive abilities, such as problem-solving, decision-making, and creativity, as well as social and emotional skills, such as empathy, self-awareness, and interpersonal communication. Intelligence is a complex and multi-dimensional concept, and there are many different theories and models of intelligence that have been proposed over the years. One of the most well-known is the "general intelligence" or "g" theory, which proposes that intelligence can be measured and quantified by standardized tests that assess a person's ability to solve a variety of different types of problems.
 
 Artificial Intelligence
